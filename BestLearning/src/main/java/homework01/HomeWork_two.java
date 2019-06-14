@@ -1,6 +1,5 @@
-package homework;
+package homework01;
 
-import homework.HomeWork_One;
 import org.testng.annotations.Test;
 
 import java.math.BigDecimal;
@@ -44,7 +43,6 @@ public class HomeWork_two {
         }
         return false;
     }
-
 
     //Double类型相加
     public static String addTest(Double param1, Double param2) {

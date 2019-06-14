@@ -1,11 +1,7 @@
-package homework;
+package homework01;
 
-
-import org.testng.annotations.Test;
 
 import java.math.BigDecimal;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class HomeWork_One {
 
@@ -48,7 +44,7 @@ public class HomeWork_One {
 //    }
 
 
-//    @Test
+//    @Test1
 //    public void test(){
 //        BigDecimal p1=new BigDecimal("1");
 //        BigDecimal p2=new BigDecimal("0");
@@ -124,6 +120,8 @@ public class HomeWork_One {
             System.err.println("参数异常,两个数不可以为空,不可以为null");
             return null;
         }
+
+
         /**
          * 长度校验,假设数值最大长度支持64位
          */

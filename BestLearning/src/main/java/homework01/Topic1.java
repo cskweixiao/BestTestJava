@@ -1,6 +1,6 @@
 //package homework;
 //
-//import org.testng.annotations.Test;
+//import org.testng.annotations.Test1;
 //
 //import java.math.BigDecimal;
 //
@@ -92,7 +92,7 @@
 //  /**
 //   * case 4, 浮点数,超长测试
 //   */
-//  @Test
+//  @Test1
 //  public static void testFloatNumber() {
 //    String response = add(
 //        "1.00000000000000000000000000000000000000000000000000000000000001",
@@ -229,7 +229,7 @@
 //  /**
 //   * case 20, 异常数值
 //   */
-//  @Test
+//  @Test1
 //  public static void testStrictInvalidParams5() {
 //    String response = add("123", "1.2.3");
 //    System.out.println(response);
