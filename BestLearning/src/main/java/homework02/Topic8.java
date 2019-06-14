@@ -21,7 +21,7 @@ public class Topic8 {
     public  void write(){
         Teacher t=new Teacher("123",12);
         t.eat();
-        System.out.println(name+"xiexiexie");
+        System.out.println(name+"xiexiexiexie");
 
     }
     public  void eat(){
