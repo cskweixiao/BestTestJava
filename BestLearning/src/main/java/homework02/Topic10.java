@@ -1,6 +1,8 @@
 package homework02;
 
-import org.junit.Test;
+//import org.junit.Test;
+
+import org.testng.annotations.Test;
 
 import java.util.*;
 
@@ -36,6 +38,7 @@ public class Topic10 {
 
        //新建一个List存放User类
        List<User> list = Arrays.asList(new User[] {userone,usertwo,userthree});
+
 
        //遍历打印数据
        for (int i = 0; i < list.size(); i++) {

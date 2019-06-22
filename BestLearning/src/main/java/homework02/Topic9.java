@@ -1,6 +1,8 @@
 package homework02;
 
-import org.junit.Test;
+//import org.junit.Test;
+
+import org.testng.annotations.Test;
 
 /**
  * 作业9: 请用面向对象的思路设计: 马路上跑汽车

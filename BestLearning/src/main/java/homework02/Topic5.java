@@ -1,6 +1,7 @@
 package homework02;
 
-import org.junit.Test;
+//import org.junit.Test;
+import org.testng.annotations.Test;
 
 /**
  * 作业5:实现一个杨辉三角

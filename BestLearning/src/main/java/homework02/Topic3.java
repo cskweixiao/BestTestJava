@@ -1,6 +1,8 @@
 package homework02;
 
-import org.junit.Test;
+//import org.junit.Test;
+
+import org.testng.annotations.Test;
 
 import java.math.BigDecimal;
 
